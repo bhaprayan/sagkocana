@@ -1,0 +1,20 @@
+/*
+This text file contains the links to all of the test
+data that we will use for benchmarking the algorithms.
+
+This file is parsed within the 'retrieve.py' program,
+so make sure that all new additions to the file, adhere
+to the defined syntax.
+
+FILE_TYPE:
+	FILE_URL
+*/
+
+TEXT:
+	http://corpus.canterbury.ac.nz/resources/cantrbry.tar.gz
+	http://corpus.canterbury.ac.nz/resources/artificl.tar.gz
+	http://corpus.canterbury.ac.nz/resources/large.tar.gz
+	http://corpus.canterbury.ac.nz/resources/misc.tar.gz
+	http://corpus.canterbury.ac.nz/resources/calgary.tar.gz
+
+
