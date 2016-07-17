@@ -1,0 +1,10 @@
+canturbury.tar.gz
+http://corpus.canterbury.ac.nz/resources/cantrbry.tar.gz
+artificial.tar.gz
+http://corpus.canterbury.ac.nz/resources/artificl.tar.gz
+large.tar.gz
+http://corpus.canterbury.ac.nz/resources/large.tar.gz
+misc.tar.gz
+http://corpus.canterbury.ac.nz/resources/misc.tar.gz
+calgary.tar.gz
+http://corpus.canterbury.ac.nz/resources/calgary.tar.gz
