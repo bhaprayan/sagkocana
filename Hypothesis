@@ -1,0 +1,10 @@
+Mini-Project Hypothesis
+Shubhankar:
+Speed up of compression, some of the algorithms may show a lesser compression ratio as compared to non-parallel
+
+Archit:
+Same compression ratio, and speed up, some of the algorithms may slow down after parallelization
+
+Rathin:
+
+Shadab:
